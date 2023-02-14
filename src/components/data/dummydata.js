@@ -50,38 +50,38 @@ export const services = [
   {
     id: 1,
     icon: <Settings />,
-    title: "Freelance Gitaris ",
-    desc: "Nanti Saya Deskripsikan Lagi",
+    title: " Full-Stack Developer ",
+    desc: "The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. They develop these platforms to function independently, not needing to rely on third-party services to remain consistent.",
   },
   {
     id: 2,
     icon: <CropRotate />,
     title: "Clean Code",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    desc: " Clean code is clear, understandable, and maintainable. When you write clean code, you're keeping in mind the other people who may read and interpret your code at a later time. ",
   },
   {
     id: 3,
     icon: <ViewInAr />,
-    title: "Responsive Design",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Frontend Developer",
+    desc: "Build the interface that users see and interact with. They create websites in HTML, CSS, and JavaScript so people can access a site or application through their browser controls",
   },
   {
     id: 4,
     icon: <PieChart />,
-    title: "Material UI	",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Data Analyst	",
+    desc: "collects, cleans, and interprets data sets in order to answer a question or solve a problem. ",
   },
   {
     id: 5,
     icon: <Code />,
-    title: "Material UI Icons",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Backend Developer",
+    desc: "responsible for creating and maintaining technology at the back end of a website (the server, database and application).",
   },
   {
     id: 6,
     icon: <BarChart />,
-    title: "Awesome Support",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "System Engineering",
+    desc: "Installs, configures, and tests operating systems, application software, and system management tools. ",
   },
 ]
 export const project = [
@@ -89,7 +89,7 @@ export const project = [
     id: 1,
     icon: <CloudOutlined />,
     num: "2",
-    title: "HAPPY CLIENTS",
+    title: "PROJECTS ON GOING",
   },
   {
     id: 2,
@@ -101,13 +101,13 @@ export const project = [
     id: 3,
     icon: <Public />,
     num: "12",
-    title: "FILES DOWNLOADED",
+    title: "MANGGUNG DINIKAHAN",
   },
   {
     id: 4,
     icon: <PersonOutlined />,
-    num: "1446",
-    title: "LIENS OF CODE",
+    num: "17",
+    title: "PEOPLES SEE ME",
   },
 ]
 export const portfolio = [
@@ -171,10 +171,10 @@ export const testimonials = [
   },
   {
     id: 3,
-    text: "Main Gitarnya Jago Gess",
+    text: "Githubnya diprivate ",
     image: "./images/testimonials/team-3.png",
-    name: "Anonymous",
-    post: "Penggemar Rahasia",
+    name: "Heru Herman",
+    post: "Kang Freelance Brebes Pride ",
   },
 ]
 export const blog = [
